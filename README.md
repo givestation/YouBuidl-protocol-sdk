@@ -36,15 +36,9 @@ YouBuild Protocol unlocks a wide range of exciting possibilities for decentraliz
 
 Ready to build the next generation of social applications? Explore our comprehensive documentation and SDK to start building with YouBuild Protocol today!
 
-[Link to your Documentation]
-[Link to your SDK Repository]
+[https://doc.youbuidl.dev]
+[https://github.com/mikiedu/YouBuidl-doc-sdk]
 
 ## Contributing
 
 YouBuild Protocol is an open and collaborative project. We welcome contributions from developers, designers, and community members.
-
-[Link to your Contribution Guidelines]
-
-## License
-
-[Your Project License]
