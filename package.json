@@ -1,8 +1,8 @@
 {
-  "name": "@orbisclub/orbis-sdk",
+  "name": "@youbuildprotocol/sdk",
   "version": "0.4.89",
-  "description": "Official package to implement quickly an Orbis powered decentralized social layer within your application.",
-  "author": "Baptiste Grève",
+  "description": "Official package for the YouBuild Protocol, enabling decentralized social with integrated DeFi.",
+  "author": "Givestation",
   "license": "ISC",
   "type": "module",
   "main": "index.js",
