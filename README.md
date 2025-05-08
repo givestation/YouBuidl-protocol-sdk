@@ -38,7 +38,3 @@ Ready to build the next generation of social applications? Explore our comprehen
 
 [https://doc.youbuidl.dev]
 [https://github.com/mikiedu/YouBuidl-doc-sdk]
-
-## Contributing
-
-YouBuild Protocol is an open and collaborative project. We welcome contributions from developers, designers, and community members who want to build upon the initial groundwork provided by the Orbis team and help us realize the vision of a truly integrated decentralized social and finance ecosystem.
