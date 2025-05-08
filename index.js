@@ -162,7 +162,7 @@ export class Orbis {
 			this.litCloud = true;
 		}
 
-		/** Create API object that developers can use to query content from Orbis */
+		/** Create API object that developers can use to query content from YouBuild Protocol */
 		this.api = indexer;
 	}
 

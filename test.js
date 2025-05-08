@@ -1,4 +1,4 @@
-import { Orbis } from './index.js';
+import { YouBuildProtocol } from './index.js';
 
-/** Test Orbis class creation */
-let orbis = new Orbis();
+/** Test YouBuild Protocol class creation */
+let youBuildProtocol = new YouBuildProtocol();
